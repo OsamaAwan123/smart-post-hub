@@ -4,9 +4,9 @@ The platform caters to both registered and non-registered users. While registere
 
 The Smart Post Hub boasts a responsive design, meticulously crafted to deliver an optimal viewing experience across a wide range of devices. Whether accessed from desktops, tablets, or mobile phones, users can seamlessly navigate through the backend and frontend components while appreciating the proficiency in secure user management embedded within the application.
 
-![](src/assets/1.png)
-![](src/assets/2.png)
-![](src/assets/3.png)
-![](src/assets/4.png)
-![](src/assets/5.png)
-![](src/assets/6.png)
+![](client/src/assets/1.png)
+![](client/src/assets/2.png)
+![](client/src/assets/3.png)
+![](client/src/assets/4.png)
+![](client/src/assets/5.png)
+![](client/src/assets/6.png)
